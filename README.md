@@ -30,3 +30,5 @@ _I do not have much time to ammend as per any requirements you might put forward
 DO NOT BLOODY GIVE TO GET! GIVE TO INSPIRE OTHERS TO GIVE!
 ``` 
 _Thanks,  @eyaadh_
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akashakashav/Watermark-Bash-Telegram-Bot/tree/master)
